@@ -1,5 +1,10 @@
 fullstack-bootcamp-projects <br>
-Srivardhan | Full Stack Projects
+Srivardhan | Full Stack Projects<br>
+This repo contains all my daily full-stack web development projects as part of a 2-month journey.
+# Pages
+- `index.html` – Main portfolio/home page
+- `landing.html` – Project landing page
+- `contact.html` – Contact form (coming soon!)
 
 🚀 Project: Contact Page
 A responsive Landing-Page and Contact-form using HTML, CSS, and Flexbox.
